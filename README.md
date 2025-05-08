@@ -11,9 +11,6 @@ Experience the vibe of Spotify through modern layouts, clean design, and pixel-p
 ✅ Built with **pure HTML & CSS** (no frameworks, no JavaScript)  
 ✅ Clean, well-organized, and reusable code  
 
-## 📸 Preview
-
-![Spotify Clone Screenshot]() 
 
 ## 💡 Why this project?
 
